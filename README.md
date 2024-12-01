@@ -16,7 +16,7 @@
 Clone the repository, follow the setup instructions, and start playing or modifying the game.
 
 ```bash
-git clone https://github.com/yourusername/starblitz.git
+git clone https://github.com/XiaomingHuang/StarBlitz.git
 cd starblitz
 # Add setup instructions here
 To run the devserver:
