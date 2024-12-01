@@ -16,7 +16,7 @@
 克隆仓库，按照设置说明操作，即可开始游戏或进行修改。
 
 ```bash
-git clone https://github.com/yourusername/starblitz.git
+git clone https://github.com/XiaomingHuang/StarBlitz.git
 cd starblitz
 # 添加具体的设置说明
 To run the devserver:
