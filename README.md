@@ -17,6 +17,15 @@ Clone the repository, follow the setup instructions, and start playing or modify
 git clone https://github.com/yourusername/starblitz.git
 cd starblitz
 # Add setup instructions here
+To run the devserver:
+npm install
+npm run dev
+```
+
+## Developers 👨‍💻
+- **Curry.Huang**  
+- **Star.Huang**
+
 ```
 
 ## Contribute 🤝
