@@ -3,6 +3,8 @@
 
 **StarBlitz** is a simple yet exciting 2D arcade-style space shooter game where you pilot a starship to battle waves of enemies and overcome challenging obstacles. Perfect for gamers and developers alike who enjoy classic shooting games with a modern twist!
 
+[🇨🇳 中文版](./README-zh.md)
+
 ## Features 🌟
 - **Dynamic Gameplay**: Fast-paced action with increasing difficulty to keep you engaged.
 - **Power-ups**: Collect power-ups to upgrade your weapons and boost your ship's abilities.
